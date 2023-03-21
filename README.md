@@ -3,17 +3,17 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 ![python](https://img.shields.io/badge/python-v3.9-blue)
-<br/>
 🤗
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 -->
 
-
+<!--
 <img align="left" 
 alt="img" src="https://aeiljuispo.cloudimg.io/v7/https://s3.amazonaws.com/moonup/production/uploads/1670144568552-634dffc49b777beec3bc6448.jpeg?w=200&h=200&f=face" 
 width="20%" height="auto" />
+-->
 
 ![svjack's GitHub stats](https://github-readme-stats.vercel.app/api?username=svjack&count_private=true&show_icons=true&theme=radical)
 
