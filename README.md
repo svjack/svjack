@@ -169,8 +169,73 @@ PyArrowExpressionCastToolkit
 </tr>
 </table>
 
+<!--
+from huggingface_hub import HfApi
+import requests
+import pandas as pd
 
+hf_api = HfApi()
+
+resp = requests.get("https://huggingface.co/api/spaces?search=svjack")
+df = pd.DataFrame(resp.json())
+
+df = df[
+    df["id"].map(
+        lambda x: x.strip().startswith("svjack")
+    )
+]
+
+df["info"] = df["id"].map(
+    lambda x: hf_api.space_info(x)
+)
+
+info_df = pd.DataFrame(
+df.sort_values(by = "likes", ascending = False).apply(
+    lambda x: 
+    (
+        "https://huggingface.co/spaces/{}".format(x["id"]),
+        x["info"].cardData["title"],
+        x["info"].cardData["emoji"],
+        x["likes"]
+    ),
+    axis = 1
+).values.tolist())
+info_df.columns = ["url", "title", "emoji", "likes"]
+info_df = info_df.sort_values(by = ["likes", "title"], ascending = False)
+del info_df["likes"]
+
+print(info_df.to_markdown())
+-->
+
+## Interested in Artificial Intelligence ? Have a try my recent online demo in HuggingFace Space 🤗
 ## Recent update Huggingface Space reps 
+
+|    | url                                                                                       | title                                                | emoji   |
+|---:|:------------------------------------------------------------------------------------------|:-----------------------------------------------------|:--------|
+|  0 | https://huggingface.co/spaces/svjack/Question-Generator                                   | Question Generator                                   | 😻      |
+|  1 | https://huggingface.co/spaces/svjack/ControlNet-Pose-Chinese                              | ControlNet Pose Chinese                              | ⚡      |
+|  3 | https://huggingface.co/spaces/svjack/Entity-Property-Extractor-zh                         | Entity Property Extractor Zh                         | 🦀      |
+|  2 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english                         | Bloom Daliy Dialogue English                         | 📚      |
+| 22 | https://huggingface.co/spaces/svjack/Translate-Chinese-to-English                         | Translate Chinese To English                         | 📚      |
+| 20 | https://huggingface.co/spaces/svjack/Translate                                            | Translate                                            | 🌍      |
+|  4 | https://huggingface.co/spaces/svjack/Question-Words-Extractor-zh                          | Question Words Extractor Zh                          | 📈      |
+| 10 | https://huggingface.co/spaces/svjack/prompt-extend-gpt-chinese                            | Prompt Extend Gpt Chinese                            | 🌍      |
+| 21 | https://huggingface.co/spaces/svjack/Harry-Potter-Knowledge-Question-Answer-in-Chinese    | Harry Potter Knowledge Question Answer In Chinese    | 🧙      |
+|  5 | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese                                 | Gpt Dialogue Chinese                                 | 📊      |
+| 16 | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese                           | Gpt Daliy Dialogue Chinese                           | 📚      |
+| 19 | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue-Chinese                            | GLM Open Dialogue Chinese                            | 🦀      |
+| 18 | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue                                    | GLM Open Dialogue                                    | ⚡      |
+| 15 | https://huggingface.co/spaces/svjack/Extract-Similar-Chinese-Span-by-English-From-Chinese | Extract Similar Chinese Span By English From Chinese | 🔥      |
+| 11 | https://huggingface.co/spaces/svjack/English-Context-Dialogue-Generator                   | English Context Dialogue Generator                   | 👁       |
+|  7 | https://huggingface.co/spaces/svjack/English-Comet-Atomic                                 | English Comet Atomic                                 | 🐢      |
+|  6 | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese                             | ControlNet Canny Chinese                             | 💩      |
+|  9 | https://huggingface.co/spaces/svjack/context-dialogue-chinese-sample-search               | Context Dialogue Chinese Sample Search               | 💻      |
+| 12 | https://huggingface.co/spaces/svjack/Chinese-Context-Dialogue-Generator                   | Chinese Context Dialogue Generator                   | 🐰      |
+|  8 | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic                                 | Chinese Comet Atomic                                 | 🚀      |
+| 14 | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search             | Bloom Gpt Dialogue Chinese Sample Search             | 🐢      |
+| 13 | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese                               | Bloom Dialogue Chinese                               | 🌖      |
+| 23 | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search                 | Bloom Daliy Dialogue English Sample Search           | ⚡      |
+| 17 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese                         | Bloom Daliy Dialogue Chinese                         | 🌍      |
 
 <!--
 #### 🌱 Things I am currently working on: 
@@ -186,22 +251,23 @@ PyArrowExpressionCastToolkit
 
 -->
 
+<br/>
+
 #### :computer: Programming languages and tools: 
 <p>
   <!--
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
   -->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+
+
+<!--
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
+-->
