@@ -21,7 +21,7 @@ width="20%" height="auto" />
 
 Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligence engineer in Hangzhou China.
 
-## Recent update repos (group by Knowledge Domain)
+## Recent update repos (group by Domain)
 
 ### StableDiffusion
 <table>
