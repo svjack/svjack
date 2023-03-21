@@ -27,19 +27,19 @@ Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligen
 <table>
 <tr>
 
-<td>
+<td width="330px">
 
 [![Stable-Diffusion-Chinese-Extend](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Chinese-Extend)](https://github.com/svjack/Stable-Diffusion-Chinese-Extend)
 
 </td>
 
-<td>
+<td width="330px">
 
 [![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Pokemon)](https://github.com/svjack/Stable-Diffusion-Pokemon)
 
 </td>
 
-<td>
+<td width="330px">
 
 [![ControlLoRA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ControlLoRA-Chinese)](https://github.com/svjack/ControlLoRA-Chinese)
 
