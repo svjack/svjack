@@ -204,7 +204,7 @@ info_df.columns = ["url", "title", "emoji", "likes"]
 info_df = info_df.sort_values(by = ["likes", "title"], ascending = False)
 del info_df["likes"]
 
-print(info_df.to_markdown())
+print(info_df.reset_index().iloc[:, 1:].to_markdown())
 -->
 
 ## Interested in Artificial Intelligence ? Have a try my recent online demo in HuggingFace Space 🤗
