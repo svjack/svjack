@@ -85,16 +85,15 @@ PyArrowExpressionCastToolkit
 
 </td>
 
+</tr>
+
+<tr>
+	
 <td>
 
 [![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
 
 </td>
-
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -102,6 +101,9 @@ PyArrowExpressionCastToolkit
 
 </td>
 
+</tr>
+	
+<tr>
 <td>
 
 [![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
@@ -115,7 +117,6 @@ PyArrowExpressionCastToolkit
 [![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
 
 </td>
-
 </tr>
 
 <tr>
@@ -139,13 +140,13 @@ PyArrowExpressionCastToolkit
 <table>
 <tr>
 
-<td width="330px">
+<td>
 
 [![PhotoWCT](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=PhotoWCT)](https://github.com/svjack/PhotoWCT)
 
 </td>
 
-<td width="330px">
+<td>
 
 [![Detector-in-Detector](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Detector-in-Detector)](https://github.com/svjack/Detector-in-Detector)
 
@@ -159,7 +160,7 @@ PyArrowExpressionCastToolkit
 <table>
 <tr>
 
-<td width="330px">
+<td>
 
 [![PyArrowExpressionCastToolkit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=PyArrowExpressionCastToolkit)](https://github.com/svjack/PyArrowExpressionCastToolkit)
 
