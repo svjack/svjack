@@ -68,6 +68,8 @@ PhotoWCT
 Detector-in-Detector
 
 PyArrowExpressionCastToolkit
+
+https://github.com/svjack/COMET-ATOMIC-En-Zh
 -->
 
 <table>
@@ -80,20 +82,32 @@ PyArrowExpressionCastToolkit
 </td>
 
 <td>
+	
+[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
+	
+</td>
+
+<tr/>
+	
+<tr>
+	
+<td>
 
 [![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
 
 </td>
 
-</tr>
 
-<tr>
 	
 <td>
 
 [![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
 
 </td>
+	
+</tr>
+
+<tr>
 
 <td>
 
@@ -101,30 +115,32 @@ PyArrowExpressionCastToolkit
 
 </td>
 
-</tr>
-	
-<tr>
+
 <td>
 
 [![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
 
 </td>
 
-
+</tr>
+	
+<tr>
 
 <td>
 
 [![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
 
 </td>
-</tr>
 
-<tr>
 <td>
 
 [![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
 
 </td>
+	
+</tr>
+
+<tr>
 
 <td>
 
