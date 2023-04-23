@@ -282,6 +282,7 @@ print(info_df.to_markdown())
 ## Interested in Artificial Intelligence ? Have a try my recent online demo in HuggingFace Space 🤗
 ## Recent update Huggingface Space reps 
 
+<!--
 |    | url                                                                                       | title                                                | 中文标题                                       | emoji   |
 |---:|:------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------|:--------|
 |  1 | https://huggingface.co/spaces/svjack/ControlNet-Pose-Chinese                              | ControlNet Pose Lora Chinese                         | Stable Diffusion 姿势 ControlNet Lora 中文模型 | ⚡      |
@@ -315,6 +316,42 @@ print(info_df.to_markdown())
 | 29 | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese                               | Bloom Dialogue Chinese                               | Bloom对话中文模型                              | 🌖      |
 | 30 | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search                 | Bloom Daliy Dialogue English Sample Search           | Bloom GPT 英文对话样本搜索                     | ⚡      |
 | 31 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese                         | Bloom Daliy Dialogue Chinese                         | Bloom日常对话中文模型                          | 🌍      |
+-->
+
+| 序号 | 模型大类 | 模型小类 | 模型名称 | title | 链接 | emoji |
+| --- | ------- | ------- | ------- | ------- | ------- | ------|
+| 01 | 计算机视觉模型 | 人脸识别与对齐 | SPIGA面部识别对齐 | SPIGA Face Alignment | https://huggingface.co/spaces/svjack/SPIGA-face-alignment | 📉 |
+| 02 | StableDiffusion模型 | 边缘控制网络 | Stable Diffusion边缘ControlNet中文模型 | ControlNet Canny Chinese | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese-df | 💩 |
+| 03 | StableDiffusion模型 | 面部控制网络 | Stable Diffusion面部ControlNet中文模型 | ControlNet Face Chinese | https://huggingface.co/spaces/svjack/ControlNet-Face-Chinese | 💻 |
+| 04 | StableDiffusion模型 | 姿势控制网络 | Stable Diffusion姿势ControlNet Lora中文模型 | ControlNet Pose Lora Chinese | https://huggingface.co/spaces/svjack/ControlNet-Pose-Chinese | ⚡ |
+| 05 | StableDiffusion模型 | 边缘控制网络 | Stable Diffusion边缘ControlNet Lora中文模型 | ControlNet Canny Lora Chinese | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese | 🦐 |
+| 06 | 多模态模型 | 文字+图片问答 | 英文文档图片问题生成器 | Question Generator On English Doc | https://huggingface.co/spaces/svjack/Question-Generator-on-English-Doc | 📚 |
+| 07 | 多模态模型 | 文字+图片问答 | 中文文档图片问题生成器 | Question Generator On Chinese Doc | https://huggingface.co/spaces/svjack/Question-Generator-on-Chinese-Doc | 🚀 |
+| 08 | 辅助模型 | GPT提示句扩展 | Stable Diffusion中文提示句扩展GPT模型 | Prompt Extend Gpt Chinese | https://huggingface.co/spaces/svjack/prompt-extend-gpt-chinese | 🌍 |
+| 09 | 自然语言处理模型 | 人机对话与搜索 | Bloom对话中文模型 | Bloom Dialogue Chinese | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese | 🌖 |
+| 10 | 自然语言处理模型 | 人机对话与搜索 | Bloom日常对话中文模型 | Bloom Daliy Dialogue Chinese | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese | 🌍 |
+| 11 | 自然语言处理模型 | 人机对话与搜索 | Bloom日常对话英文模型 | Bloom Daliy Dialogue English | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english | 📚 |
+| 12 | 自然语言处理模型 | 人机对话与搜索 | 中文GPT对话模型 | Gpt Dialogue Chinese | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese | 📊 |
+| 13 | 自然语言处理模型 | 人机对话与搜索 | 中文GPT日常对话模型 | Gpt Daliy Dialogue Chinese | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese | 📚 |
+| 14 | 自然语言处理模型 | 人机对话与搜索 | Bloom GPT中文对话样本搜索 | Bloom Gpt Dialogue Chinese Sample Search | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | 🐢 |
+| 15 | 自然语言处理模型 | 人机对话与搜索 | Bloom GPT英文对话样本搜索 | Bloom Dialogue English Sample Search | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search | ⚡ |
+| 16 | 自然语言处理模型 | 人机对话与搜索 | 中文GLM开放对话模型 | GLM Open Dialogue Chinese | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue-Chinese | 🦀 |
+| 17 | 自然语言处理模型 | 人机对话与搜索 | 多语言GLM开放对话模型 | GLM Open Dialogue | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue | ⚡ |
+| 18 | 自然语言处理模型 | 人机对话与搜索 | 根据上下文生成对话中文模型 | Chinese Context Dialogue Generator | https://huggingface.co/spaces/svjack/Chinese-Context-Dialogue-Generator | 🐰 |
+| 19 | 自然语言处理模型 | 人机对话与搜索 | 根据上下文生成对话英文模型 | English Context Dialogue Generator | https://huggingface.co/spaces/svjack/English-Context-Dialogue-Generator | 👁 |
+| 20 | 自然语言处理模型 | 人机对话与搜索 | 根据上下文生成对话中文模型数据搜索 | Context Dialogue Chinese Sample Search | https://huggingface.co/spaces/svjack/context-dialogue-chinese-sample-search | 💻 |
+| 21 | 自然语言处理模型 | 问答系统与图谱推断 | 中文疑问词提取器 | Question Words Extractor Zh | https://huggingface.co/spaces/svjack/Question-Words-Extractor-zh | 📈 |
+| 22 | 自然语言处理模型 | 问答系统与图谱推断 | 中文实体属性提取器 | Entity Property Extractor Zh | https://huggingface.co/spaces/svjack/Entity-Property-Extractor-zh | 🦀 |
+| 23 | 自然语言处理模型 | 问答系统与图谱推断 | 问题生成器 | Question Generator | https://huggingface.co/spaces/svjack/Question-Generator | 😻 |
+| 24 | 自然语言处理模型 | 问答系统与图谱推断 | 日常事件图谱推断中文模型 | Chinese Comet Atomic | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic | 🚀 |
+| 25 | 自然语言处理模型 | 问答系统与图谱推断 | 日常事件图谱推断英文模型 | English Comet Atomic | https://huggingface.co/spaces/svjack/English-Comet-Atomic | 🐢 |
+| 26 | 自然语言处理模型 | 问答系统与图谱推断 | 日常事件图谱推断Lora T5-large中文模型 | Chinese Comet Atomic T5 Large Lora | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic-T5-Large-Lora | 🏃 |
+| 27 | 自然语言处理模型 | 问答系统与图谱推断 | 中文数据表问答（TableQA） | TableQA Chinese | https://huggingface.co/spaces/svjack/TableQA-Chinese | 😻 |
+| 28 | 自然语言处理模型 | 问答系统与图谱推断 | 哈利波特中文知识库问答 | Harry Potter Knowledge Question Answer In Chinese | https://huggingface.co/spaces/svjack/Harry-Potter-Knowledge-Question-Answer-in-Chinese | 🧙 |
+| 29 | 自然语言处理模型 | 翻译 | 中英文翻译 | Translate Chinese To English | https://huggingface.co/spaces/svjack/Translate-Chinese-to-English | 📚 |
+| 30 | 自然语言处理模型 | 翻译 | 多语言翻译 | Translate | https://huggingface.co/spaces/svjack/Translate | ⚡ |
+| 31 | 自然语言处理模型 | 翻译 | 从中文中提取相似的英文语段模型 | Extract Similar Chinese Span By English From Chinese | https://huggingface.co/spaces/svjack/Extract-Similar-Chinese-Span-by-English-From-Chinese | 🔥 |
+
 
 <!--
 #### 🌱 Things I am currently working on: 
