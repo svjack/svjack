@@ -26,7 +26,7 @@ Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligen
 <br/>
 
 <b>
-Looking for a job. if you are interested in more, you can contact me by email ehangzhou@outlook.com	
+Looking for a job. if you are interested in me, you can contact me by email ehangzhou@outlook.com	
 </b>
 	
 ## Recent update repos (group by Domain)
