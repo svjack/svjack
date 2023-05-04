@@ -19,8 +19,16 @@ width="20%" height="auto" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svjack&layout=compact)](https://github.com/svjack/github-readme-stats)
 
-Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligence engineer in Hangzhou China.
+<b>
+Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligence engineer in Hangzhou China. 
+</b>
 
+<br/>
+
+<b>
+Looking for a job. if you are interested in more, you can contact me by email ehangzhou@outlook.com	
+</b>
+	
 ## Recent update repos (group by Domain)
 
 ### StableDiffusion
