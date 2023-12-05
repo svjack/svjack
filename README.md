@@ -243,37 +243,67 @@ print("\n".join(info_df["title"].values.tolist()))
 
 #### deepl
 target_str = '''
-Stable Diffusion 姿势 ControlNet Lora 中文模型
+ControlNet 姿态 Lora 中文版
+Next Diffusion SD 演示
 问题生成器
-中文实体属性提取器
-Stable Diffusion 面部 ControlNet 中文模型
-Bloom日常对话英文模型 
-中英文翻译
-翻译
-中文数据表问答（TableQA）
-SPIGA 面部识别对齐
+中译英
+Stable Diffusion 搜索 图像哈希
+Stable Diffusion 搜索 图像embedding
+Stable Diffusion C++ 版本
+中文文档问题生成器
+Stable Diffusion 中文提示语句扩展 Gpt
+OpenBuddy Gradio示例
+Next Diffusion 提示词规则扩展
+MagicPrompt 英文提示语句扩展 Gpt
+中文实体属性抽取模型
+英语 Comet Atomic 常识推理模型
+ControlNet 面部表情 中文版
+Comet Atomic 常识推理故事讲述者
+Chatglm3 开放聊天
+Chatglm3 聊天
+Chatglm3 6b GGML
+Chatglm2 6b GGML
+CTranslate （多语言翻译C++版本）
+Bloom 每日对话 英语样本搜索
+Bloom 每日对话 英语模型
+svjack huggingface space 文档
+Wuerstchen 轻量级文生图模型
+Wizardlm 13b GGML
+多语言翻译
+TableQA 中文版
+超分辨率神经风格转移
+Stable Diffusion GGML 探索页面
+Segment Anything 任意语义分割
+人脸对齐模型
 中文疑问词提取器
-英文文档图片问题生成器
-中文文档图片问题生成器
-Stable Diffusion中文提示句扩展GPT模型
-哈利波特中文知识库问答
-中文GPT对话模型
-中文GPT日常对话模型
-中文GLM开放对话模型
-多语言GLM开放对话模型
-从中文中提取相似的英文语段模型
-根据上下文生成对话英文模型
-日常事件图谱推断英文模型
-Stable Diffusion 边缘 ControlNet Lora 中文模型
-Stable Diffusion 边缘 ControlNet 中文模型
-根据上下文生成对话中文模型数据搜索
-根据上下文生成对话中文模型
-日常事件图谱推断 Lora T5-large 中文模型
-日常事件图谱推断中文模型
-Bloom GPT 中文对话样本搜索
-Bloom对话中文模型 
-Bloom GPT 英文对话样本搜索
-Bloom日常对话中文模型
+英语图片文档问题生成器
+Comet Atomic 常识推理像素故事讲述者
+全景任意语义分割
+Mistral Super Fast LLM模型接口
+图像像素艺术化
+哈利波特中文知识图谱问答
+HR VITON Streamlit 虚拟穿衣模型
+Gpt 中文对话生成器
+Gpt 中文日常对话生成器
+用英语从中文中提取相似的中文词段
+英语上下文对话生成器
+Emoji 对 Stable Diffusion 图片搜索
+DragGAN Streamlit 图片物体姿态拖拽示例
+Deepsparse 快速图片embedding 生成器
+ControlNet 边缘 Lora 中文版
+ControlNet 边缘 中文版
+上下文对话中文样本搜索
+Civitai 模型集合提示词与文生图 Huggingface在线体验
+中文上下文对话生成器
+中文 Comet Atomic T5 常识推理模型
+中文 Comet Atomic 常识推理模型
+Chatglm3 小样本提示示例
+Chatglm3 小样本提示
+Bloom Gpt 中文对话样本搜索
+Bloom 中文对话生成器
+Bloom 中文每日对话生成器
+AII Stable Diffusion 在线体验
+AI Stable Diffusion 在线体验
 '''
 import numpy as np
 
@@ -292,39 +322,69 @@ print(info_df.to_markdown())
 ## Recent update Huggingface Space reps 
 
 <!--
-|    | url                                                                                       | title                                                | 中文标题                                       | emoji   |
-|---:|:------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------|:--------|
-|  1 | https://huggingface.co/spaces/svjack/ControlNet-Pose-Chinese                              | ControlNet Pose Lora Chinese                         | Stable Diffusion 姿势 ControlNet Lora 中文模型 | ⚡      |
-|  2 | https://huggingface.co/spaces/svjack/Question-Generator                                   | Question Generator                                   | 问题生成器                                     | 😻      |
-|  3 | https://huggingface.co/spaces/svjack/Entity-Property-Extractor-zh                         | Entity Property Extractor Zh                         | 中文实体属性提取器                             | 🦀      |
-|  4 | https://huggingface.co/spaces/svjack/ControlNet-Face-Chinese                              | ControlNet Face Chinese                              | Stable Diffusion 面部 ControlNet 中文模型      | 💻      |
-|  5 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english                         | Bloom Daliy Dialogue English                         | Bloom日常对话英文模型                          | 📚      |
-|  6 | https://huggingface.co/spaces/svjack/Translate-Chinese-to-English                         | Translate Chinese To English                         | 中英文翻译                                     | 📚      |
-|  7 | https://huggingface.co/spaces/svjack/Translate                                            | Translate                                            | 翻译                                           | 🌍      |
-|  8 | https://huggingface.co/spaces/svjack/TableQA-Chinese                                      | TableQA Chinese                                      | 中文数据表问答（TableQA）                      | 😻      |
-|  9 | https://huggingface.co/spaces/svjack/SPIGA-face-alignment                                 | SPIGA Face Alignment                                 | SPIGA 面部识别对齐                             | 📉      |
-| 10 | https://huggingface.co/spaces/svjack/Question-Words-Extractor-zh                          | Question Words Extractor Zh                          | 中文疑问词提取器                               | 📈      |
-| 11 | https://huggingface.co/spaces/svjack/Question-Generator-on-English-Doc                    | Question Generator On English Doc                    | 英文文档图片问题生成器                         | 📚      |
-| 12 | https://huggingface.co/spaces/svjack/Question-Generator-on-Chinese-Doc                    | Question Generator On Chinese Doc                    | 中文文档图片问题生成器                         | 🚀      |
-| 13 | https://huggingface.co/spaces/svjack/prompt-extend-gpt-chinese                            | Prompt Extend Gpt Chinese                            | Stable Diffusion中文提示句扩展GPT模型          | 🌍      |
-| 14 | https://huggingface.co/spaces/svjack/Harry-Potter-Knowledge-Question-Answer-in-Chinese    | Harry Potter Knowledge Question Answer In Chinese    | 哈利波特中文知识库问答                         | 🧙      |
-| 15 | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese                                 | Gpt Dialogue Chinese                                 | 中文GPT对话模型                                | 📊      |
-| 16 | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese                           | Gpt Daliy Dialogue Chinese                           | 中文GPT日常对话模型                            | 📚      |
-| 17 | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue-Chinese                            | GLM Open Dialogue Chinese                            | 中文GLM开放对话模型                            | 🦀      |
-| 18 | https://huggingface.co/spaces/svjack/GLM-Open-Dialogue                                    | GLM Open Dialogue                                    | 多语言GLM开放对话模型                          | ⚡      |
-| 19 | https://huggingface.co/spaces/svjack/Extract-Similar-Chinese-Span-by-English-From-Chinese | Extract Similar Chinese Span By English From Chinese | 从中文中提取相似的英文语段模型                 | 🔥      |
-| 20 | https://huggingface.co/spaces/svjack/English-Context-Dialogue-Generator                   | English Context Dialogue Generator                   | 根据上下文生成对话英文模型                     | 👁       |
-| 21 | https://huggingface.co/spaces/svjack/English-Comet-Atomic                                 | English Comet Atomic                                 | 日常事件图谱推断英文模型                       | 🐢      |
-| 22 | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese                             | ControlNet Canny Lora Chinese                        | Stable Diffusion 边缘 ControlNet Lora 中文模型 | 💩      |
-| 23 | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese-df                          | ControlNet Canny Chinese                             | Stable Diffusion 边缘 ControlNet 中文模型      | 🦐      |
-| 24 | https://huggingface.co/spaces/svjack/context-dialogue-chinese-sample-search               | Context Dialogue Chinese Sample Search               | 根据上下文生成对话中文模型数据搜索             | 💻      |
-| 25 | https://huggingface.co/spaces/svjack/Chinese-Context-Dialogue-Generator                   | Chinese Context Dialogue Generator                   | 根据上下文生成对话中文模型                     | 🐰      |
-| 26 | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic-T5-Large-Lora                   | Chinese Comet Atomic T5 Large Lora                   | 日常事件图谱推断 Lora T5-large 中文模型        | 🏃      |
-| 27 | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic                                 | Chinese Comet Atomic                                 | 日常事件图谱推断中文模型                       | 🚀      |
-| 28 | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search             | Bloom Gpt Dialogue Chinese Sample Search             | Bloom GPT 中文对话样本搜索                     | 🐢      |
-| 29 | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese                               | Bloom Dialogue Chinese                               | Bloom对话中文模型                              | 🌖      |
-| 30 | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search                 | Bloom Daliy Dialogue English Sample Search           | Bloom GPT 英文对话样本搜索                     | ⚡      |
-| 31 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese                         | Bloom Daliy Dialogue Chinese                         | Bloom日常对话中文模型                          | 🌍      |
+|    | url                                                                                       | title                                                | 中文标题                                           | emoji   |
+|---:|:------------------------------------------------------------------------------------------|:-----------------------------------------------------|:---------------------------------------------------|:--------|
+|  1 | https://huggingface.co/spaces/svjack/ControlNet-Pose-Chinese                              | ControlNet Pose Lora Chinese                         | ControlNet 姿态 Lora 中文版                        | ⚡      |
+|  2 | https://huggingface.co/spaces/svjack/Next-Diffusion-SD-Demo                               | Next Diffusion SD Demo                               | Next Diffusion SD 演示                             | 🧑‍🎨    |
+|  3 | https://huggingface.co/spaces/svjack/Question-Generator                                   | Question Generator                                   | 问题生成器                                         | 😻      |
+|  4 | https://huggingface.co/spaces/svjack/Translate-Chinese-to-English                         | Translate Chinese To English                         | 中译英                                             | 📚      |
+|  5 | https://huggingface.co/spaces/svjack/stable-diffusion.search.hash                         | Stable Diffusion.search.hash                         | Stable Diffusion 搜索 图像哈希                     | 🌠      |
+|  6 | https://huggingface.co/spaces/svjack/stable-diffusion.search.embedding                    | Stable Diffusion.search.embedding                    | Stable Diffusion 搜索 图像embedding                | 🌹      |
+|  7 | https://huggingface.co/spaces/svjack/stable-diffusion.cpp                                 | Stable Diffusion.cpp                                 | Stable Diffusion C++ 版本                          | 🐠      |
+|  8 | https://huggingface.co/spaces/svjack/Question-Generator-on-Chinese-Doc                    | Question Generator On Chinese Doc                    | 中文文档问题生成器                                 | 🚀      |
+|  9 | https://huggingface.co/spaces/svjack/prompt-extend-gpt-chinese                            | Prompt Extend Gpt Chinese                            | Stable Diffusion 中文提示语句扩展 Gpt              | 🌍      |
+| 10 | https://huggingface.co/spaces/svjack/OpenBuddy-Gradio                                     | OpenBuddy Gradio                                     | OpenBuddy Gradio示例                               | 🐨      |
+| 11 | https://huggingface.co/spaces/svjack/Next-Diffusion-Prompt-Generator                      | Next Diffusion Prompt Generator                      | Next Diffusion 提示词规则扩展                      | 💎      |
+| 12 | https://huggingface.co/spaces/svjack/MagicPrompt-Stable-Diffusion                         | MagicPrompt Stable Diffusion                         | MagicPrompt 英文提示语句扩展 Gpt                   | 😻      |
+| 13 | https://huggingface.co/spaces/svjack/Entity-Property-Extractor-zh                         | Entity Property Extractor Zh                         | 中文实体属性抽取模型                               | 🦀      |
+| 14 | https://huggingface.co/spaces/svjack/English-Comet-Atomic                                 | English Comet Atomic                                 | 英语 Comet Atomic 常识推理模型                     | 🐢      |
+| 15 | https://huggingface.co/spaces/svjack/ControlNet-Face-Chinese                              | ControlNet Face Chinese                              | ControlNet 面部表情 中文版                         | 💻      |
+| 16 | https://huggingface.co/spaces/svjack/Comet-Atomic-Story-Teller                            | Comet Atomic Story Teller                            | Comet Atomic 常识推理故事讲述者                    | 🎥💬    |
+| 17 | https://huggingface.co/spaces/svjack/chatglm3-open-chat                                   | Chatglm3 Open Chat                                   | Chatglm3 开放聊天                                  | 🐼      |
+| 18 | https://huggingface.co/spaces/svjack/chatglm3-chat                                        | Chatglm3 Chat                                        | Chatglm3 聊天                                      | 🐎      |
+| 19 | https://huggingface.co/spaces/svjack/chatglm3-6b-ggml                                     | Chatglm3 6b Ggml                                     | Chatglm3 6b GGML                                   | 📚      |
+| 20 | https://huggingface.co/spaces/svjack/chatglm2-6b-ggml                                     | Chatglm2 6b Ggml                                     | Chatglm2 6b GGML                                   | 📚      |
+| 21 | https://huggingface.co/spaces/svjack/cTranslate                                           | CTranslate                                           | CTranslate （多语言翻译C++版本）                   | 😻      |
+| 22 | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search                 | Bloom Daliy Dialogue English Sample Search           | Bloom 每日对话 英语样本搜索                        | ⚡      |
+| 23 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english                         | Bloom Daliy Dialogue English                         | Bloom 每日对话 英语模型                            | 📚      |
+| 24 | https://huggingface.co/spaces/svjack/svjack-space-doc                                     | svjack Space Documentation by Gradio                 | svjack huggingface space 文档                      | 🤭🤖    |
+| 25 | https://huggingface.co/spaces/svjack/Wuerstchen                                           | Wuerstchen                                           | Wuerstchen 轻量级文生图模型                        | 🐨      |
+| 26 | https://huggingface.co/spaces/svjack/wizardlm-13b-ggml                                    | Wizardlm 13b Ggml                                    | Wizardlm 13b GGML                                  | 👀      |
+| 27 | https://huggingface.co/spaces/svjack/Translate                                            | Translate                                            | 多语言翻译                                         | 🌍      |
+| 28 | https://huggingface.co/spaces/svjack/TableQA-Chinese                                      | TableQA Chinese                                      | TableQA 中文版                                     | 😻      |
+| 29 | https://huggingface.co/spaces/svjack/Super-Resolution-Neural-Style-Transfer               | Super Resolution Neural Style Transfer               | 超分辨率神经风格转移                               | 🐑      |
+| 30 | https://huggingface.co/spaces/svjack/stable-diffusion.ggml.explorer                       | Stable Diffusion.ggml.explorer                       | Stable Diffusion GGML 探索页面                     | 🔥      |
+| 31 | https://huggingface.co/spaces/svjack/Segment_Anything                                     | Segment Anything                                     | Segment Anything 任意语义分割                      | 📚      |
+| 32 | https://huggingface.co/spaces/svjack/SPIGA-face-alignment                                 | SPIGA Face Alignment                                 | 人脸对齐模型                                       | 📉      |
+| 33 | https://huggingface.co/spaces/svjack/Question-Words-Extractor-zh                          | Question Words Extractor Zh                          | 中文疑问词提取器                                   | 📈      |
+| 34 | https://huggingface.co/spaces/svjack/Question-Generator-on-English-Doc                    | Question Generator On English Doc                    | 英语图片文档问题生成器                             | 📚      |
+| 35 | https://huggingface.co/spaces/svjack/Pixel-Story-Teller                                   | Pixel Story Teller                                   | Comet Atomic 常识推理像素故事讲述者                | 🧱      |
+| 36 | https://huggingface.co/spaces/svjack/panoptic-segment-anything                            | Panoptic Segment Anything                            | 全景任意语义分割                                   | 🖼️🪄     |
+| 37 | https://huggingface.co/spaces/svjack/mistral-7b-fast-chat                                 | Mistral Super Fast                                   | Mistral Super Fast LLM模型接口                     | 😻      |
+| 38 | https://huggingface.co/spaces/svjack/imagen-a-pixel-art                                   | Imagen A Pixel Art                                   | 图像像素艺术化                                     | 🔥      |
+| 39 | https://huggingface.co/spaces/svjack/Harry-Potter-Knowledge-Question-Answer-in-Chinese    | Harry Potter Knowledge Question Answer In Chinese    | 哈利波特中文知识图谱问答                           | 🧙      |
+| 40 | https://huggingface.co/spaces/svjack/HR-VITON-streamlit                                   | HR VITON Streamlit                                   | HR VITON Streamlit 虚拟穿衣模型                    | 🏃      |
+| 41 | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese                                 | Gpt Dialogue Chinese                                 | Gpt 中文对话生成器                                 | 📊      |
+| 42 | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese                           | Gpt Daliy Dialogue Chinese                           | Gpt 中文日常对话生成器                             | 📚      |
+| 43 | https://huggingface.co/spaces/svjack/Extract-Similar-Chinese-Span-by-English-From-Chinese | Extract Similar Chinese Span By English From Chinese | 用英语从中文中提取相似的中文词段                   | 🔥      |
+| 44 | https://huggingface.co/spaces/svjack/English-Context-Dialogue-Generator                   | English Context Dialogue Generator                   | 英语上下文对话生成器                               | 👁       |
+| 45 | https://huggingface.co/spaces/svjack/emoji.stable-diffusion                               | Emoji.Stable Diffusion                               | Emoji 对 Stable Diffusion 图片搜索                 | 🕌🌍    |
+| 46 | https://huggingface.co/spaces/svjack/DragGAN_Streamlit                                    | DragGAN Streamlit                                    | DragGAN Streamlit 图片物体姿态拖拽示例             | 🏆      |
+| 47 | https://huggingface.co/spaces/svjack/deepsparse-img-embedding                             | Deepsparse Img Embedding                             | Deepsparse 快速图片embedding 生成器                | 🌖      |
+| 48 | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese                             | ControlNet Canny Lora Chinese                        | ControlNet 边缘 Lora 中文版                        | 💩      |
+| 49 | https://huggingface.co/spaces/svjack/ControlNet-Canny-Chinese-df                          | ControlNet Canny Chinese                             | ControlNet 边缘 中文版                             | 🦐      |
+| 50 | https://huggingface.co/spaces/svjack/context-dialogue-chinese-sample-search               | Context Dialogue Chinese Sample Search               | 上下文对话中文样本搜索                             | 💻      |
+| 51 | https://huggingface.co/spaces/svjack/Civitai-Stable-Diffusion-HF                          | Civitai Stable Diffusion HF                          | Civitai 模型集合提示词与文生图 Huggingface在线体验 | 🌊      |
+| 52 | https://huggingface.co/spaces/svjack/Chinese-Context-Dialogue-Generator                   | Chinese Context Dialogue Generator                   | 中文上下文对话生成器                               | 🐰      |
+| 53 | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic-T5-Large-Lora                   | Chinese Comet Atomic T5 Large Lora                   | 中文 Comet Atomic T5 常识推理模型                  | 🏃      |
+| 54 | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic                                 | Chinese Comet Atomic                                 | 中文 Comet Atomic 常识推理模型                     | 🚀      |
+| 55 | https://huggingface.co/spaces/svjack/chatglm3-few-shot-demo                               | Chatglm3 Few Shot Demo                               | Chatglm3 小样本提示示例                            | 🍔🍔    |
+| 56 | https://huggingface.co/spaces/svjack/chatglm3-few-shot                                    | Chatglm3 Few Shot                                    | Chatglm3 小样本提示                                | 🍔      |
+| 57 | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search             | Bloom Gpt Dialogue Chinese Sample Search             | Bloom Gpt 中文对话样本搜索                         | 🐢      |
+| 58 | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese                               | Bloom Dialogue Chinese                               | Bloom 中文对话生成器                               | 🌖      |
+| 59 | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese                         | Bloom Daliy Dialogue Chinese                         | Bloom 中文每日对话生成器                           | 🌍      |
+| 60 | https://huggingface.co/spaces/svjack/AIIDiffusion                                         | AII Diffusion                                        | AII Stable Diffusion 在线体验                      | 🐦      |
+| 61 | https://huggingface.co/spaces/svjack/AIDiffusion                                          | AI Diffusion                                         | AI Stable Diffusion 在线体验                       | 🌻      |
 -->
 
 | 序号 | 模型大类 | 模型小类 | 模型名称 | title | 链接 | emoji |
