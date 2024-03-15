@@ -90,6 +90,22 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 <tr>
 
 <td>
+	
+[![Genshin-Impact-Character-Instruction](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Instruction)](https://github.com/svjack/Genshin-Impact-Character-Instruction)
+
+</td>
+
+<td>
+	
+[![Genshin-Impact-BookQA-LLM](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-BookQA-LLM)](https://github.com/svjack/Genshin-Impact-BookQA-LLM)
+
+</td>
+
+</tr>
+ 
+<tr>
+
+<td>
 
 [![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
 
@@ -154,8 +170,11 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 	
 </tr>
 
-<tr>
+</table>
 
+<!--
+
+<tr>
 <td>
 
 [![NLP-demos-with-translate](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=NLP-demos-with-translate)](https://github.com/svjack/NLP-demos-with-translate)
@@ -163,7 +182,7 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 </td>
 </tr>
 
-</table>
+-->
 
 ### CV
 
