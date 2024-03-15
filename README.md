@@ -57,6 +57,11 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 
 </td>
 
+<td>
+
+[![ControlLoRA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Diffusion-Story-Teller)](https://github.com/svjack/Diffusion-Story-Teller)
+
+</td>
 
 </tr>
 </table>
