@@ -32,41 +32,7 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 
 ## Recent update repos (group by Domain)
 
-### StableDiffusion
-<table>
-<tr>
-
-<td>
-
-[![Stable-Diffusion-Chinese-Extend](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Chinese-Extend)](https://github.com/svjack/Stable-Diffusion-Chinese-Extend)
-
-</td>
-
-<td>
-
-[![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Pokemon)](https://github.com/svjack/Stable-Diffusion-Pokemon)
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-[![ControlLoRA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ControlLoRA-Chinese)](https://github.com/svjack/ControlLoRA-Chinese)
-
-</td>
-
-<td>
-
-[![Diffusion-Story-Teller](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Diffusion-Story-Teller)](https://github.com/svjack/Diffusion-Story-Teller)
-
-</td>
-
-</tr>
-</table>
-
-### NLP
+### LLM & NLP
 
 <!--
 Context2Dialogue
@@ -112,8 +78,8 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 </td>
 
 <td>
-	
-[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
+
+[![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
 	
 </td>
 
@@ -123,7 +89,8 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 	
 <td>
 
-[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
+[![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
+
 
 </td>
 
@@ -131,7 +98,7 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 	
 <td>
 
-[![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
+[![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
 
 </td>
 	
@@ -148,7 +115,7 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 
 <td>
 
-[![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
+[![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
 
 </td>
 
@@ -158,13 +125,15 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 
 <td>
 
-[![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
+[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
 
 </td>
 
 <td>
 
-[![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
+[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
+
+
 
 </td>
 	
@@ -183,6 +152,40 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 </tr>
 
 -->
+
+### StableDiffusion
+<table>
+<tr>
+
+<td>
+
+[![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Pokemon)](https://github.com/svjack/Stable-Diffusion-Pokemon)
+
+</td>
+
+<td>
+
+[![Stable-Diffusion-Chinese-Extend](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Chinese-Extend)](https://github.com/svjack/Stable-Diffusion-Chinese-Extend)
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+
+[![ControlLoRA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ControlLoRA-Chinese)](https://github.com/svjack/ControlLoRA-Chinese)
+
+</td>
+
+<td>
+
+[![Diffusion-Story-Teller](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Diffusion-Story-Teller)](https://github.com/svjack/Diffusion-Story-Teller)
+
+</td>
+
+</tr>
+</table>
 
 ### CV
 
