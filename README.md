@@ -164,17 +164,7 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 
 [![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
 
-<tr>
-<td>
 
-</td>
-
-</tr>
-
-
-</td>
-	
-</tr>
 
 </table>
 
