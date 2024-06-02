@@ -50,14 +50,17 @@ Detector-in-Detector
 PyArrowExpressionCastToolkit
 
 https://github.com/svjack/COMET-ATOMIC-En-Zh
+
+https://github.com/svjack/Genshin-Impact-Character-Chat
 -->
 
 <table>
 <tr>
 
 <td>
+
+[![Genshin-Impact-Character-Chat](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Chat)](https://github.com/svjack/Genshin-Impact-Character-Chat)
 	
-[![CodeActAgent-Gradio](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=CodeActAgent-Gradio)](https://github.com/svjack/CodeActAgent-Gradio)
 
 </td>
 
@@ -92,17 +95,14 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 
 <td>
 
-[![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
-
-
+[![CodeActAgent-Gradio](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=CodeActAgent-Gradio)](https://github.com/svjack/CodeActAgent-Gradio)
 
 
 </td>
 
 <td>
 
-[![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
-
+[![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
 
 	
 </td>
@@ -110,27 +110,33 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 </tr>
 	
 <tr>
+	
+<td>
+
+[![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
+
+
+</td>
+
+
 	
 <td>
 
 [![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
 
 
-
-</td>
-
-
-	
-<td>
-
-[![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
-
-
 </td>
 	
 </tr>
 
 <tr>
+
+<td>
+
+[![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
+
+</td>
+
 
 <td>
 
@@ -140,31 +146,35 @@ https://github.com/svjack/COMET-ATOMIC-En-Zh
 </td>
 
 
-<td>
-
-[![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
-
-
-
-</td>
-
-
 </tr>
 	
 <tr>
 
 <td>
 
-[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
+[![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
 
 
 </td>
 
 <td>
 
+[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
+
+</td>
+</tr>
+
+<tr>
+
+<td>
+
 [![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
 
 
+
+</td>
+
+</tr>
 
 </table>
 
