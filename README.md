@@ -59,6 +59,24 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
+[![deepseek-coder-v2-ollama-chainlit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=deepseek-coder-v2-ollama-chainlit)](https://github.com/svjack/deepseek-coder-v2-ollama-chainlit)
+	
+
+</td>
+
+<td>
+
+[![llama-cpp-agent](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=llama-cpp-agent)](https://github.com/svjack/llama-cpp-agent)
+	
+
+</td>
+
+</tr>
+ 
+<tr>
+
+<td>
+
 [![Genshin-Impact-Character-Chat](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Chat)](https://github.com/svjack/Genshin-Impact-Character-Chat)
 	
 
