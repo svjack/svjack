@@ -32,6 +32,27 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 
 ## Recent update repos (group by Domain)
 
+### AI Video
+<table>
+<tr>
+
+<td>
+
+[![Genshin-Impact-Fan-Video](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Fan-Video)](https://github.com/svjack/Genshin-Impact-Fan-Video)
+
+
+	
+
+</td>
+
+<td>
+
+
+</td>
+
+</tr>
+ </table>
+
 ### LLM & NLP
 
 <!--
@@ -59,29 +80,29 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![Genshin-Impact-Romantic-Ruckus](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Romantic-Ruckus)](https://github.com/svjack/Genshin-Impact-Romantic-Ruckus)
-
-
-	
-
-</td>
-
-<td>
-
 [![deepseek-coder-v2-ollama-chainlit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=deepseek-coder-v2-ollama-chainlit)](https://github.com/svjack/deepseek-coder-v2-ollama-chainlit)
 
+
 	
 
 </td>
 
-</tr>
- 
-<tr>
-
 <td>
+
 
 [![llama-cpp-agent](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=llama-cpp-agent)](https://github.com/svjack/llama-cpp-agent)
+	
 
+</td>
+
+</tr>
+ 
+<tr>
+
+<td>
+
+
+[![Genshin-Impact-Character-Chat](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Chat)](https://github.com/svjack/Genshin-Impact-Character-Chat)
 
 
 
@@ -89,8 +110,8 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![Genshin-Impact-Character-Chat](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Chat)](https://github.com/svjack/Genshin-Impact-Character-Chat)
-	
+
+[![Genshin-Impact-RAG](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-RAG)](https://github.com/svjack/Genshin-Impact-RAG)	
 
 
 </td>
@@ -102,17 +123,17 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 <td>
 
 
-[![Genshin-Impact-RAG](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-RAG)](https://github.com/svjack/Genshin-Impact-RAG)
-
-
-
-</td>
-
-<td>
 
 [![Genshin-Impact-BookQA-LLM](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-BookQA-LLM)](https://github.com/svjack/Genshin-Impact-BookQA-LLM)
 
 
+</td>
+
+<td>
+
+
+[![Genshin-Impact-Character-Instruction](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Instruction)](https://github.com/svjack/Genshin-Impact-Character-Instruction)
+
 
 </td>
 
@@ -122,16 +143,16 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![Genshin-Impact-Character-Instruction](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Instruction)](https://github.com/svjack/Genshin-Impact-Character-Instruction)
 
+[![CodeActAgent-Gradio](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=CodeActAgent-Gradio)](https://github.com/svjack/CodeActAgent-Gradio)
 
 
 </td>
 
 <td>
 
-[![CodeActAgent-Gradio](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=CodeActAgent-Gradio)](https://github.com/svjack/CodeActAgent-Gradio)
 
+[![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
 
 	
 </td>
@@ -139,21 +160,21 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 </tr>
 	
 <tr>
-	
-<td>
-
-[![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
-
-
-</td>
-
-
 	
 <td>
 
 [![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
 
 
+</td>
+
+
+	
+<td>
+
+
+[![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
+
 
 </td>
 	
@@ -163,20 +184,20 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
-
-
-
-
-</td>
-
-
-<td>
 
 [![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
 
 
 
+</td>
+
+
+<td>
+
+
+
+[![GLM-Open-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=GLM-Open-Dialogue)](https://github.com/svjack/GLM-Open-Dialogue)
+
 
 </td>
 
@@ -187,28 +208,28 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![GLM-Open-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=GLM-Open-Dialogue)](https://github.com/svjack/GLM-Open-Dialogue)
-
-
-
-
-</td>
-
-<td>
 
 [![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
 
 
 
 </td>
+
+<td>
+
+
+[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
+
+
+</td>
 </tr>
 
 <tr>
 
 <td>
 
-[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
 
+[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
 
 
 
@@ -216,7 +237,7 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 <td>
 
-[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
+
 
 </td>
 </tr>
