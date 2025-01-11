@@ -45,6 +45,15 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 
 </td>
 
+<td>
+
+[![StereoCrafter](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=StereoCrafter)](https://github.com/svjack/StereoCrafter)
+
+
+	
+
+</td>
+
 <!--
 <td>
 
@@ -53,6 +62,17 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 -->
 
 </tr>
+
+<tr>
+
+<td>
+
+[![Enhance-A-Video](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Enhance-A-Video)](https://github.com/svjack/Enhance-A-Video)
+
+</td>
+
+</tr>
+ 
  </table>
 
 ### LLM & NLP
