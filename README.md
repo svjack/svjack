@@ -283,11 +283,20 @@ https://github.com/svjack/Genshin-Impact-Character-Chat
 
 </td>
 </tr>
-
+ColorFlow
 -->
 
 ### StableDiffusion
 <table>
+
+<tr>
+
+<td>
+
+[![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ColorFlow)](https://github.com/svjack/ColorFlow)
+
+</td>
+</tr>
 <tr>
 
 <td>
