@@ -37,345 +37,63 @@ Looking for a job. if you are interested with me, you can contact me by email eh
 ## Recent update repos (group by Domain)
 
 ### AI Video
-<table>
-<tr>
+| 仓库名称 | 仓库描述 | 链接 |
+|----------|----------|------|
+| [Genshin-Impact-Fan-Video](https://github.com/svjack/Genshin-Impact-Fan-Video) | 原神影视制作相关项目 | [查看](https://github.com/svjack/Genshin-Impact-Fan-Video) |
+| [StereoCrafter](https://github.com/svjack/StereoCrafter) | 立体视频制作工具 | [查看](https://github.com/svjack/StereoCrafter) |
+| [Enhance-A-Video](https://github.com/svjack/Enhance-A-Video) | 视频增强工具 | [查看](https://github.com/svjack/Enhance-A-Video) |
+| [SVD_Xtend](https://github.com/svjack/SVD_Xtend) | 视频扩展工具 | [查看](https://github.com/svjack/SVD_Xtend) |
 
-<td>
-
-[![Genshin-Impact-Fan-Video](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Fan-Video)](https://github.com/svjack/Genshin-Impact-Fan-Video)
-
-
-	
-
-</td>
-
-<td>
-
-[![StereoCrafter](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=StereoCrafter)](https://github.com/svjack/StereoCrafter)
-
-
-	
-
-</td>
-
-<!--
-<td>
-
-
-</td>
--->
-
-</tr>
-
-<tr>
-
-<td>
-
-[![Enhance-A-Video](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Enhance-A-Video)](https://github.com/svjack/Enhance-A-Video)
-
-</td>
-
-<td>
-
-[![SVD_Xtend](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=SVD_Xtend)](https://github.com/svjack/SVD_Xtend)
-
-</td>
-
-
-</tr>
- 
- </table>
+---
 
 ### LLM & NLP
-
-<!--
-Context2Dialogue
-Daliy-Dialogue
-GLM-Open-Dialogue
-docvqa-gen
-Sbert-ChineseExample
-tableQA-Chinese
-DeepPavlov-Chinese-KBQA
-NLP-demos-with-translate
-
-PhotoWCT
-Detector-in-Detector
-
-PyArrowExpressionCastToolkit
-
-https://github.com/svjack/COMET-ATOMIC-En-Zh
-
-https://github.com/svjack/Genshin-Impact-Character-Chat
--->
-
-<table>
-<tr>
-
-<td>
-
-[![deepseek-coder-v2-ollama-chainlit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=deepseek-coder-v2-ollama-chainlit)](https://github.com/svjack/deepseek-coder-v2-ollama-chainlit)
-
-
-	
-
-</td>
-
-<td>
-
-
-[![llama-cpp-agent](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=llama-cpp-agent)](https://github.com/svjack/llama-cpp-agent)
-	
-
-</td>
-
-</tr>
- 
-<tr>
-
-<td>
-
-
-[![Genshin-Impact-Character-Chat](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Chat)](https://github.com/svjack/Genshin-Impact-Character-Chat)
-
-
-
-</td>
-
-<td>
-
-
-[![Genshin-Impact-RAG](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-RAG)](https://github.com/svjack/Genshin-Impact-RAG)	
-
-
-</td>
-
-</tr>
- 
-<tr>
-
-<td>
-
-
-
-[![Genshin-Impact-BookQA-LLM](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-BookQA-LLM)](https://github.com/svjack/Genshin-Impact-BookQA-LLM)
-
-
-</td>
-
-<td>
-
-
-[![Genshin-Impact-Character-Instruction](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Genshin-Impact-Character-Instruction)](https://github.com/svjack/Genshin-Impact-Character-Instruction)
-
-
-</td>
-
-</tr>
- 
-<tr>
-
-<td>
-
-
-[![CodeActAgent-Gradio](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=CodeActAgent-Gradio)](https://github.com/svjack/CodeActAgent-Gradio)
-
-
-</td>
-
-<td>
-
-
-[![Sbert-ChineseExample](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Sbert-ChineseExample)](https://github.com/svjack/Sbert-ChineseExample)
-
-	
-</td>
-
-</tr>
-	
-<tr>
-	
-<td>
-
-[![docvqa-gen](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=docvqa-gen)](https://github.com/svjack/docvqa-gen)
-
-
-</td>
-
-
-	
-<td>
-
-
-[![tableQA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=tableQA-Chinese)](https://github.com/svjack/tableQA-Chinese)
-
-
-</td>
-	
-</tr>
-
-<tr>
-
-<td>
-
-
-[![DeepPavlov-Chinese-KBQA](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=DeepPavlov-Chinese-KBQA)](https://github.com/svjack/DeepPavlov-Chinese-KBQA)
-
-
-
-</td>
-
-
-<td>
-
-
-
-[![GLM-Open-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=GLM-Open-Dialogue)](https://github.com/svjack/GLM-Open-Dialogue)
-
-
-</td>
-
-
-</tr>
-	
-<tr>
-
-<td>
-
-
-[![Daliy-Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Daliy-Dialogue)](https://github.com/svjack/Daliy-Dialogue)
-
-
-
-</td>
-
-<td>
-
-
-[![Context2Dialogue](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Context2Dialogue)](https://github.com/svjack/Context2Dialogue)
-
-
-</td>
-</tr>
-
-<tr>
-
-<td>
-
-
-[![COMET-ATOMIC-En-Zh](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=COMET-ATOMIC-En-Zh)](https://github.com/svjack/COMET-ATOMIC-En-Zh)
-
-
-
-</td>
-
-<td>
-
-
-
-</td>
-</tr>
-
-
-</table>
-
-<!--
-
-<tr>
-<td>
-
-[![NLP-demos-with-translate](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=NLP-demos-with-translate)](https://github.com/svjack/NLP-demos-with-translate)
-
-</td>
-</tr>
-ColorFlow
--->
+| 仓库名称 | 仓库描述 | 链接 |
+|----------|----------|------|
+| [deepseek-coder-v2-ollama-chainlit](https://github.com/svjack/deepseek-coder-v2-ollama-chainlit) | DeepSeek Coder V2 + Ollama + Chainlit 集成 | [查看](https://github.com/svjack/deepseek-coder-v2-ollama-chainlit) |
+| [llama-cpp-agent](https://github.com/svjack/llama-cpp-agent) | Llama.cpp 智能体项目 | [查看](https://github.com/svjack/llama-cpp-agent) |
+| [Genshin-Impact-Character-Chat](https://github.com/svjack/Genshin-Impact-Character-Chat) | 原神角色对话项目 | [查看](https://github.com/svjack/Genshin-Impact-Character-Chat) |
+| [Genshin-Impact-RAG](https://github.com/svjack/Genshin-Impact-RAG) | 原神 RAG 检索增强生成项目 | [查看](https://github.com/svjack/Genshin-Impact-RAG) |
+| [Genshin-Impact-BookQA-LLM](https://github.com/svjack/Genshin-Impact-BookQA-LLM) | 原神书籍问答大模型项目 | [查看](https://github.com/svjack/Genshin-Impact-BookQA-LLM) |
+| [Genshin-Impact-Character-Instruction](https://github.com/svjack/Genshin-Impact-Character-Instruction) | 原神角色指令数据集 | [查看](https://github.com/svjack/Genshin-Impact-Character-Instruction) |
+| [CodeActAgent-Gradio](https://github.com/svjack/CodeActAgent-Gradio) | 代码智能体 Gradio 界面 | [查看](https://github.com/svjack/CodeActAgent-Gradio) |
+| [Sbert-ChineseExample](https://github.com/svjack/Sbert-ChineseExample) | 中文句子嵌入示例 | [查看](https://github.com/svjack/Sbert-ChineseExample) |
+| [docvqa-gen](https://github.com/svjack/docvqa-gen) | 文档问答生成器 | [查看](https://github.com/svjack/docvqa-gen) |
+| [tableQA-Chinese](https://github.com/svjack/tableQA-Chinese) | 中文表格问答 | [查看](https://github.com/svjack/tableQA-Chinese) |
+| [DeepPavlov-Chinese-KBQA](https://github.com/svjack/DeepPavlov-Chinese-KBQA) | 中文知识库问答 | [查看](https://github.com/svjack/DeepPavlov-Chinese-KBQA) |
+| [GLM-Open-Dialogue](https://github.com/svjack/GLM-Open-Dialogue) | GLM 开放对话项目 | [查看](https://github.com/svjack/GLM-Open-Dialogue) |
+| [Daliy-Dialogue](https://github.com/svjack/Daliy-Dialogue) | 日常对话数据集 | [查看](https://github.com/svjack/Daliy-Dialogue) |
+| [Context2Dialogue](https://github.com/svjack/Context2Dialogue) | 上下文对话生成 | [查看](https://github.com/svjack/Context2Dialogue) |
+| [COMET-ATOMIC-En-Zh](https://github.com/svjack/COMET-ATOMIC-En-Zh) | 英汉常识推理数据集 | [查看](https://github.com/svjack/COMET-ATOMIC-En-Zh) |
+
+---
 
 ### StableDiffusion
-<table>
+| 仓库名称 | 仓库描述 | 链接 |
+|----------|----------|------|
+| [ColorFlow](https://github.com/svjack/ColorFlow) | 颜色流动效果工具 | [查看](https://github.com/svjack/ColorFlow) |
+| [Stable-Diffusion-Pokemon](https://github.com/svjack/Stable-Diffusion-Pokemon) | 宝可梦主题 Stable Diffusion 模型 | [查看](https://github.com/svjack/Stable-Diffusion-Pokemon) |
+| [Stable-Diffusion-Chinese-Extend](https://github.com/svjack/Stable-Diffusion-Chinese-Extend) | 中文扩展 Stable Diffusion 模型 | [查看](https://github.com/svjack/Stable-Diffusion-Chinese-Extend) |
+| [ControlLoRA-Chinese](https://github.com/svjack/ControlLoRA-Chinese) | 中文 ControlLoRA 模型 | [查看](https://github.com/svjack/ControlLoRA-Chinese) |
+| [Diffusion-Story-Teller](https://github.com/svjack/Diffusion-Story-Teller) | 扩散故事生成器 | [查看](https://github.com/svjack/Diffusion-Story-Teller) |
 
-<tr>
-
-<td>
-
-[![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ColorFlow)](https://github.com/svjack/ColorFlow)
-
-</td>
-</tr>
-<tr>
-
-<td>
-
-[![Stable-Diffusion-Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Pokemon)](https://github.com/svjack/Stable-Diffusion-Pokemon)
-
-</td>
-
-<td>
-
-[![Stable-Diffusion-Chinese-Extend](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Stable-Diffusion-Chinese-Extend)](https://github.com/svjack/Stable-Diffusion-Chinese-Extend)
-
-</td>
-
-</tr>
-
-<tr>
-<td>
-
-[![ControlLoRA-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=ControlLoRA-Chinese)](https://github.com/svjack/ControlLoRA-Chinese)
-
-</td>
-
-<td>
-
-[![Diffusion-Story-Teller](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Diffusion-Story-Teller)](https://github.com/svjack/Diffusion-Story-Teller)
-
-</td>
-
-</tr>
-</table>
+---
 
 ### CV
+| 仓库名称 | 仓库描述 | 链接 |
+|----------|----------|------|
+| [PhotoWCT](https://github.com/svjack/PhotoWCT) | 照片风格迁移工具 | [查看](https://github.com/svjack/PhotoWCT) |
+| [Detector-in-Detector](https://github.com/svjack/Detector-in-Detector) | 检测器中的检测器 | [查看](https://github.com/svjack/Detector-in-Detector) |
 
-<table>
-<tr>
-
-<td>
-
-[![PhotoWCT](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=PhotoWCT)](https://github.com/svjack/PhotoWCT)
-
-</td>
-
-<td>
-
-[![Detector-in-Detector](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=Detector-in-Detector)](https://github.com/svjack/Detector-in-Detector)
-
-</td>
-
-</tr>
-</table>
+---
 
 ### DATA
+| 仓库名称 | 仓库描述 | 链接 |
+|----------|----------|------|
+| [img2dataset-pq2hf-transform-toolkit](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit) | 图片数据集转换工具包 | [查看](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit) |
+| [PyArrowExpressionCastToolkit](https://github.com/svjack/PyArrowExpressionCastToolkit) | PyArrow 表达式转换工具包 | [查看](https://github.com/svjack/PyArrowExpressionCastToolkit) |
 
-<!--
-https://github.com/svjack/img2dataset-pq2hf-transform-toolkit
--->
+---
 
-<table>
-<tr>
-	
-<td>
-
-[![mg2dataset-pq2hf-transform-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=img2dataset-pq2hf-transform-toolkit)](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit)
-
-</td>
-
-<td>
-
-[![PyArrowExpressionCastToolkit](https://github-readme-stats.vercel.app/api/pin/?username=svjack&repo=PyArrowExpressionCastToolkit)](https://github.com/svjack/PyArrowExpressionCastToolkit)
-
-</td>
-
-</tr>
-</table>
 
 <!--
 from huggingface_hub import HfApi
