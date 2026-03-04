@@ -13,11 +13,15 @@
 <img align="left" 
 alt="img" src="https://aeiljuispo.cloudimg.io/v7/https://s3.amazonaws.com/moonup/production/uploads/1670144568552-634dffc49b777beec3bc6448.jpeg?w=200&h=200&f=face" 
 width="20%" height="auto" />
--->
+
 
 ![svjack's GitHub stats](https://github-readme-stats.vercel.app/api?username=svjack&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svjack&layout=compact)](https://github.com/svjack/github-readme-stats)
+
+-->
+
+[![svjack's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svjack&theme=radical)](https://github.com/svjack)
 
 <b>
 Welcome to my Github page!  I am Zhipeng Yang (svjack), An artificial intelligence engineer in Hangzhou China. 
